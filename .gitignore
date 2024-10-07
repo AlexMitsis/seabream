@@ -47,6 +47,7 @@ ENV/
 # Output files (modify as needed for your project)
 *.genotype
 *_popoolation_.csv
+.png
 
 # OS generated files
 .DS_Store
